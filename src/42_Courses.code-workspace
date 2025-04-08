@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Downloads/so_long42"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"so_long.h": "c"
+		}
+	}
+}
